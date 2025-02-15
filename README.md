@@ -37,7 +37,7 @@
 ## 🚀 프로젝트
 ### [Moflis #1](https://github.com/MoFlis/Moflis)
 - **설명**: 평소 사용하던 운동 매칭 관련 앱을 이용하면서, 같은 지역에서 동일한 운동을 하는 사람과 효율적으로 매칭되기 어렵다는 문제를 느꼈습니다. 이를 해결하기 위해, 사용자의 위치, 운동 종목, 운동 시간대 등의 기준을 설정하여 정확한 매칭을 제공하는 시스템을 개발했습니다.
-- **기술 스택**: Java, Spring Boot, MySQL,Jpa
+- **기술 스택**: Java, Spring Boot, MySQL, Jpa
 
 ### [Omastay #2](https://github.com/aajj9776/Omastay)
 - **설명**: 호텔 예약 플랫폼. 주요 기능은 호텔 예약 입니다.
