@@ -35,17 +35,21 @@
 ---
 
 ## 🚀 프로젝트
-### [Omastay #1](https://github.com/aajj9776/Omastay)
+### [Moflis #1](https://github.com/MoFlis/Moflis)
+- **설명**: 평소 사용하던 운동 매칭 관련 앱을 이용하면서, 같은 지역에서 동일한 운동을 하는 사람과 효율적으로 매칭되기 어렵다는 문제를 느꼈습니다. 이를 해결하기 위해, 사용자의 위치, 운동 종목, 운동 시간대 등의 기준을 설정하여 정확한 매칭을 제공하는 시스템을 개발했습니다.
+- **기술 스택**: Java, Spring Boot, MySQL,Jpa
+
+### [Omastay #2](https://github.com/aajj9776/Omastay)
 - **설명**: 호텔 예약 플랫폼. 주요 기능은 호텔 예약 입니다.
 - **기술 스택**: Java, Spring Boot, MySQL, Thymeleaf, Jpa
 - **성과**: 프로젝트에서 JPA를 사용하며 새로운 기술을 실제로 적용하는 법을 배웠고, 데이터베이스와의 상호작용이 편리해져 효율적인 코드 작성에 큰 도움이 되었습니다. 앞으로 JPA의 개념과 내부 동작 원리도 더 깊이 공부해보고 싶습니다.
 
-### [OmaFilm #2](https://github.com/aajj9776/OmaFilm)
+### [OmaFilm #3](https://github.com/aajj9776/OmaFilm)
 - **설명**: 영화 예매 플랫폼. 주요 기능은 영화 예매 입니다.
 - **기술 스택**: Java, Servlet&JSP, Mybatis, MySQL
 - **성과**: 팀장으로 프로젝트를 이끌며 팀원들이 역량을 발휘할 수 있는 환경을 만들고 일정 관리를 신경 썼습니다. 그러나 초기에 요구사항 정의가 부족해 잦은 변경으로 일정이 지연되는 경험을 하며, 명확한 커뮤니케이션과 요구사항 설정의 중요성을 깨달았습니다.
 
-### [Needit #3](https://github.com/aajj9776/Needit)
+### [Needit #4](https://github.com/aajj9776/Needit)
 - **설명**: 우리 동네 대여 플랫폼. 주요 기능은 물품 대여 입니다.
 - **기술 스택**: Java, Spring FrameWork, MySQL, Mybatis
 - **성과**: 프로젝트 초반에는 어디서부터 시작해야 할지 막막했지만, 끈기 있게 문제를 해결하며 개발의 재미를 알게 되었습니다. 또한, 팀원의 작업과 제 작업을 합치는 과정에서 협업의 중요성도 배울 수 있었습니다.
